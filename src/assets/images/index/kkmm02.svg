@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="311px" height="395px" viewBox="0 0 311 395" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>背景框</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="移动端-copy" transform="translate(-32.000000, -441.000000)" fill-rule="nonzero" stroke="#2C8BFF">
+            <g id="Group-3" transform="translate(0.000000, 297.000000)">
+                <g id="背景框" transform="translate(32.000000, 144.000000)">
+                    <rect id="Rectangle-5" fill="#FFFFFF" x="112.5" y="108.5" width="198" height="81" rx="8"></rect>
+                    <rect id="Rectangle-6" fill="#FFFFFF" x="0.5" y="0.5" width="212" height="99" rx="8"></rect>
+                    <rect id="Rectangle-8" fill="#FFFFFF" x="131.5" y="294.5" width="179" height="100" rx="8"></rect>
+                    <rect id="Rectangle-9" fill="#FFFFFF" x="0.5" y="198.5" width="200" height="79" rx="8"></rect>
+                    <path d="M113,143 C86.4003681,147.900178 67.7337015,166.900178 57,200" id="Path-8" stroke-dasharray="2"></path>
+                    <path d="M212,36 C253.948095,40.1820074 276.948095,64.1820074 281,108" id="Path-9" stroke-dasharray="2"></path>
+                    <path d="M256,239 C233.842787,242.489097 215.17612,261.155763 200,295" id="Path-10" stroke-dasharray="2" transform="translate(228.000000, 267.000000) scale(-1, 1) translate(-228.000000, -267.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
